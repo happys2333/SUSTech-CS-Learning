@@ -1,0 +1,9 @@
+# build output
+*.ilg
+*.gz
+*.aux
+*.idx
+*.ind
+*.log
+*.toc
+
